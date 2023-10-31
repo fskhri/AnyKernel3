@@ -16,6 +16,7 @@ device.name3=rmx2151
 device.name4=RM6785
 device.name5=RMX2161
 device.name6=RMX2002
+supported.versions=11-14
 supported.versions=
 supported.patchlevels=
 '; } # end properties
